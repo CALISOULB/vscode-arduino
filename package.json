@@ -630,7 +630,7 @@
     "node-usb-native": "^0.0.20",
     "properties": "^1.2.1",
     "uuid": "^3.0.1",
-    "vscode-extension-telemetry": "0.1.6",
+    "vscode-extension-telemetry": "0.4.3",
     "winreg": "^1.2.3",
     "winston": "^2.3.1"
   }
