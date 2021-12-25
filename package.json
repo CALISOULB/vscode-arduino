@@ -625,7 +625,7 @@
     "express": "^4.14.1",
     "extract-zip": "^2.0.1",
     "glob": "^7.1.1",
-    "iconv-lite": "^0.4.18",
+    "iconv-lite": "^0.6.3",
     "impor": "^0.1.1",
     "node-usb-native": "^0.0.20",
     "properties": "^1.2.1",
